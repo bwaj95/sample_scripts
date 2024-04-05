@@ -1,0 +1,18 @@
+{
+  "name": "sample_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "errorParser.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "exceljs": "^4.4.0",
+    "winston": "^3.13.0",
+    "xlsx": "^0.18.5"
+  }
+}

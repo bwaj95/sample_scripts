@@ -1,0 +1,106 @@
+{"level":"info","message":"processig batch of length 5 at offset 0","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 00115db8db453d10d0bb63ca13961930': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00115db8db453d10d0bb63ca13961930: 400 - \"Validation failed: priority: Unexpected/invalid field in request (invalid_field)\"","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 00109733dbb57910d0bb63ca13961904': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00109733dbb57910d0bb63ca13961904: 400 - \"Validation failed: priority: Unexpected/invalid field in request (invalid_field)\"","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 0004075d1b464510a9714159cc4bcb18': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0004075d1b464510a9714159cc4bcb18: 400 - \"Validation failed: priority: Unexpected/invalid field in request (invalid_field)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00010020db5ef1108cb5ac1b13961951': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00010020db5ef1108cb5ac1b13961951: 400 - \"Validation failed: priority: Unexpected/invalid field in request (invalid_field)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0011b9611bd5a910f3dec8092a4bcb5e': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0011b9611bd5a910f3dec8092a4bcb5e: 400 - \"Validation failed: priority: Unexpected/invalid field in request (invalid_field)\"","service":"user-service"}
+{"level":"info","message":"offset updated for ticket: 5","service":"user-service"}
+{"level":"info","message":"processig batch of length 5 at offset 0","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 00115db8db453d10d0bb63ca13961930': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00115db8db453d10d0bb63ca13961930: 400 - \"Validation failed: type: It should be one of these values: 'Incident' (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 00109733dbb57910d0bb63ca13961904': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00109733dbb57910d0bb63ca13961904: 400 - \"Validation failed: type: It should be one of these values: 'Incident' (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 0004075d1b464510a9714159cc4bcb18': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0004075d1b464510a9714159cc4bcb18: 400 - \"Validation failed: type: It should be one of these values: 'Incident' (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00010020db5ef1108cb5ac1b13961951': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00010020db5ef1108cb5ac1b13961951: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value), type: It should be one of these values: 'Incident,Service Request' (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0011b9611bd5a910f3dec8092a4bcb5e': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0011b9611bd5a910f3dec8092a4bcb5e: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value), type: It should be one of these values: 'Incident,Service Request' (invalid_value)\"","service":"user-service"}
+{"level":"info","message":"offset updated for ticket: 5","service":"user-service"}
+{"level":"info","message":"processig batch of length 5 at offset 5","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00231eeb1b6055944e628775cc4bcb43': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00231eeb1b6055944e628775cc4bcb43: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value), type: It should be one of these values: 'Incident,Service Request' (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 002da930db657910d0bb63ca139619fc': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 002da930db657910d0bb63ca139619fc: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value), type: It should be one of these values: 'Incident,Service Request' (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 003ca27cdb11d1508cb5ac1b139619be': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 003ca27cdb11d1508cb5ac1b139619be: 400 - \"Validation failed: type: It should be one of these values: 'Incident' (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 005e5c1adbfa75908cb5ac1b139619ca': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 005e5c1adbfa75908cb5ac1b139619ca: 400 - \"Validation failed: type: It should be one of these values: 'Incident,Service Request' (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 002b5fab1b76f1109b94ff3f034bcb68': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 002b5fab1b76f1109b94ff3f034bcb68: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value), type: It should be one of these values: 'Incident,Service Request' (invalid_value)\"","service":"user-service"}
+{"level":"info","message":"offset updated for ticket: 10","service":"user-service"}
+{"level":"info","message":"processig batch of length 5 at offset 0","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0011b9611bd5a910f3dec8092a4bcb5e': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0011b9611bd5a910f3dec8092a4bcb5e: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00010020db5ef1108cb5ac1b13961951': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00010020db5ef1108cb5ac1b13961951: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 0004075d1b464510a9714159cc4bcb18': AxiosError: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"Error 0004075d1b464510a9714159cc4bcb18: 500 - {\"message\":\"We're sorry, but something went wrong.\"}","service":"user-service"}
+{"level":"info","message":"created entity 52","service":"user-service"}
+{"level":"error","message":"Error creating Freshservice  for 00115db8db453d10d0bb63ca13961930': AxiosError: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"Error 00115db8db453d10d0bb63ca13961930: 500 - {\"message\":\"We're sorry, but something went wrong.\"}","service":"user-service"}
+{"level":"info","message":"offset updated for ticket: 5","service":"user-service"}
+{"level":"info","message":"processig batch of length 5 at offset 5","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00231eeb1b6055944e628775cc4bcb43': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00231eeb1b6055944e628775cc4bcb43: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 002da930db657910d0bb63ca139619fc': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 002da930db657910d0bb63ca139619fc: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"info","message":"created entity 56","service":"user-service"}
+{"level":"info","message":"updated entity in Freshservice with ID 21","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 002b5fab1b76f1109b94ff3f034bcb68': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 002b5fab1b76f1109b94ff3f034bcb68: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"info","message":"offset updated for ticket: 10","service":"user-service"}
+{"level":"info","message":"processig batch of length 5 at offset 10","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0085c33d1be8959ca9714159cc4bcb0b': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0085c33d1be8959ca9714159cc4bcb0b: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0065a5401b9ea1509b94ff3f034bcb9b': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0065a5401b9ea1509b94ff3f034bcb9b: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 007f95b0db2a59508cb5ac1b13961968': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 007f95b0db2a59508cb5ac1b13961968: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0060060887e149141c3a411f8bbb3511': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0060060887e149141c3a411f8bbb3511: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"info","message":"updated entity in Freshservice with ID 33","service":"user-service"}
+{"level":"info","message":"offset updated for ticket: 15","service":"user-service"}
+{"level":"info","message":"processig batch of length 5 at offset 15","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00a29eb9db70f110d0bb63ca1396197d': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00a29eb9db70f110d0bb63ca1396197d: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"info","message":"updated entity in Freshservice with ID 37","service":"user-service"}
+{"level":"info","message":"created entity 57","service":"user-service"}
+{"level":"info","message":"created entity 58","service":"user-service"}
+{"level":"info","message":"created entity 59","service":"user-service"}
+{"level":"info","message":"offset updated for ticket: 20","service":"user-service"}
+{"level":"info","message":"processig batch of length 5 at offset 20","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00c81e831b103d10f3dec8092a4bcb60': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00c81e831b103d10f3dec8092a4bcb60: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00d474731b386d10983b8516624bcb75': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00d474731b386d10983b8516624bcb75: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00d582d4db15f110d0bb63ca139619d9': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00d582d4db15f110d0bb63ca139619d9: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"info","message":"updated entity in Freshservice with ID 39","service":"user-service"}
+{"level":"info","message":"updated entity in Freshservice with ID 41","service":"user-service"}
+{"level":"info","message":"offset updated for ticket: 25","service":"user-service"}
+{"level":"info","message":"processig batch of length 100 at offset 25","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 015d3dfc1b1ff1509b94ff3f034bcba2': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 015d3dfc1b1ff1509b94ff3f034bcba2: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00f70d631b568514a9714159cc4bcb83': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00f70d631b568514a9714159cc4bcb83: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 014e2712db7661108cb5ac1b13961931': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 014e2712db7661108cb5ac1b13961931: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0107edffdbb511108cb5ac1b1396196a': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0107edffdbb511108cb5ac1b1396196a: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0125abdcdb0c86508cb5ac1b13961937': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0125abdcdb0c86508cb5ac1b13961937: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 0136c7661b6f3418b9e9fff7cc4bcbe0': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 0136c7661b6f3418b9e9fff7cc4bcbe0: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 014ebe731b538954a9714159cc4bcbe9': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 014ebe731b538954a9714159cc4bcbe9: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"error","message":"Error updating Freshservice entity for 00fa1b3a1bdb01d0a9714159cc4bcb72': AxiosError: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Error 00fa1b3a1bdb01d0a9714159cc4bcb72: 400 - \"Validation failed: workspace_id: The workspace of a Ticket cannot be changed through the Update action. Use the Move action instead. (invalid_value)\"","service":"user-service"}
+{"level":"info","message":"updated entity in Freshservice with ID 40","service":"user-service"}
+{"level":"info","message":"updated entity in Freshservice with ID 44","service":"user-service"}
+{"level":"info","message":"created entity 60","service":"user-service"}
